@@ -16,7 +16,7 @@ CHECK VARIABLE VALUE:
 CALCULATE:
    calc 'expression'
 BRANCH:
-   if ('comaprison') {'variable' = 'value'} else {'variable' = 'value'}
+   if ('comparison') {'variable' = 'value'} else {'variable' = 'value'}
 DELETE VARIABLE:
    free 'variable'
 EXIT:
